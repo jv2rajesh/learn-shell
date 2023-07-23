@@ -10,10 +10,10 @@ echo Hello World
      # Syntax
      # echo -e "\e[codemMessage\e[0m"
 
-echo -e "\e[31mHellow World\e[0m"
-echo -e "\e[32mHellow World\e[0m"
-echo -e "\e[33mHellow World\e[0m"
-echo -e "\e[34mHellow World\e[0m"
-echo -e "\e[35mHellow World\e[0m"
-echo -e "\e[36mHellow World\e[0m"
+echo -e "\e[31mHello World\e[0m"
+echo -e "\e[32mHello World\e[0m"
+echo -e "\e[33mHello World\e[0m"
+echo -e "\e[34mHello World\e[0m"
+echo -e "\e[35mHello World\e[0m"
+echo -e "\e[36mHello World\e[0m"
 
