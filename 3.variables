@@ -1,0 +1,13 @@
+a=10
+b=20
+c=10 20
+d="20 30"
+
+  #syntax
+  # echo ${variable}
+  # here variables are a b c & d
+
+ echo ${a}
+ echo ${b}
+ echo ${c}
+ echo ${d}
