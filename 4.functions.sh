@@ -8,6 +8,7 @@ greeting
 
 echo func exit status $?
 
+
 # Function have its own special variables
 
 input() {
