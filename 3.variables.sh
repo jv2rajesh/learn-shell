@@ -11,3 +11,18 @@ d="raj reddy"
  echo ${b}
  echo ${c}
  echo ${d}
+
+# special variables
+#  $0 - $N, $*, $#
+
+# Substitution variables
+## Command substitution
+
+DATE = $(date)
+
+echo today date is $DATE
+
+## Airthematic Substitution
+ADD=$(( 2+2 ))
+
+echo ADD of  = $ADD
