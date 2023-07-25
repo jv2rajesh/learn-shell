@@ -17,12 +17,9 @@ d="raj reddy"
 
 # Substitution variables
 ## Command substitution
-
 DATE = $(date)
-
 echo today date is $DATE
 
 ## Airthematic Substitution
 ADD=$(( 2+2 ))
-
-echo ADD of  = $ADD
+echo ADD of 2+2 = $ADD
