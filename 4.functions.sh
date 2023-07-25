@@ -5,3 +5,5 @@ greeting() {
 }
 
 greeting
+
+echo func exit status $?
